@@ -4,7 +4,6 @@ dataclasses==0.8
 dbus-python==1.2.4
 decorator==4.2.1
 Flask==2.0.3
-gpg==1.13.1
 gunicorn==21.2.0
 importlib-metadata==4.8.3
 itsdangerous==2.0.1
