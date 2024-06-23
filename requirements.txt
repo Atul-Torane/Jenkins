@@ -5,14 +5,17 @@ dbus-python==1.2.4
 decorator==4.2.1
 Flask==2.0.3
 gpg==1.13.1
+gunicorn==21.2.0
 importlib-metadata==4.8.3
 itsdangerous==2.0.1
 Jinja2==3.0.3
 libcomps==0.1.16
 MarkupSafe==2.0.1
 nftables==0.1
+packaging==21.3
 perf==0.1
 pygobject==3.28.3
+pyparsing==3.1.2
 python-dateutil==2.6.1
 python-linux-procfs==0.6.3
 pyudev==0.21.0
